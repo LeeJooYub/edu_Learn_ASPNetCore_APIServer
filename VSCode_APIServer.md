@@ -50,7 +50,7 @@ dotnet --version
 3. **REST Client** - API 테스트를 위한 도구 (Http 파일)
    - 설치: VS Code 확장 마켓플레이스에서 "REST Client" 검색
    - 기능: VS Code 내에서 직접 HTTP 요청을 작성하고 테스트
-   - 사용법: [사용법](#rest-client)
+   - 사용법: [사용법](#rest-client를-사용한-테스트)
 
 
 
@@ -129,7 +129,7 @@ VS Code에서 디버깅을 설정하려면:
    
    <div align="center">
      <img src="images/VSCode_APIServer/select_debugger.png" alt="VS Code에서 F5을 누를 경우" width="70%">
-     <p><em>VS Code에서 F5을 누를 경우</em></p>
+     <p><em>VS Code에서 F5을 누르고, Suggested된 .NET Core 디버거 선택</em></p>
    </div>
       - .NET Code 디버거를 선택합니다.
 
@@ -137,7 +137,7 @@ VS Code에서 디버깅을 설정하려면:
      <img src="images/VSCode_APIServer/debugger_tab.png" alt="디버그 탭 클릭" width="70%">
      <p><em>VS Code에서 디버그 탭 누르고, 초록 화살표 누름</em></p>
    </div>
-      - 이후 디버거 탭을 누르고, 초록 화살표를 누르면 디버깅이 진행된다.
+      - 이후 디버거 탭을 누르고, 초록 화살표를 누르면 디버깅이 진행됩니다.
 ---
 2. 중단점을 설정해서 디버깅을 진행할 수 있고,  
 디버거 탭을 통해, 변수를 추적하거나, Callstack, BreakPoints확인, 현재 Local 변수를 확인할 수 있다.
@@ -150,8 +150,9 @@ VS Code에서 디버깅을 설정하려면:
 
 
 ---
-3. `.vscode` 폴더에 `launch.json` 파일이 자동으로 생성됩니다. 이 폴더는 VS Code의 프로젝트별 설정을 저장하는 곳입니다. 없다면 다음과 같이 수동으로 생성할 수 있습니다:
+3. 디버거를 설정했다면, `.vscode` 폴더에 `launch.json` 파일이 자동으로 생성됩니다. 이 폴더는 VS Code의 프로젝트별 설정을 저장하는 곳입니다. 없다면 수동으로 생성할 수 있습니다:
 
+### 파일설명 
 `.vscode/launch.json` 파일: (디버깅 구성을 정의하는 파일로, 디버깅 시작 시 어떻게 실행할지 설정합니다)
 
 ```json
