@@ -284,7 +284,7 @@ GET {{host}}/weatherforecast
 버튼을 클릭하여 요청을 실행합니다.
 
    <div align="center">
-     <img src="images/VSCode_APIServer/http_Test.png" alt="http테스트" width="70%">
+     <img src="images/VSCode_APIServer/http_test.png" alt="http테스트" width="70%">
      <p><em>REST Client를 이용한 http 테스트</em></p>
    </div>
 
