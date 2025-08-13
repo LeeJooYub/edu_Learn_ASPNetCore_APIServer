@@ -104,6 +104,13 @@ dotnet build
   <p><em>dotnet build 명령으로 프로젝트를 빌드하는 화면</em></p>
 </div>
 
+혹은 VS Code Terminal -> Run Build Task로 빌드합니다.
+
+<div align="center">
+  <img src="images/VSCode_APIServer/vsbuild.gif" alt="디버깅 데모" width="70%">
+  <p><em>그림 X: VS Code에서 빌드 장면 시연</em></p>
+</div>
+
 2. 빌드가 성공하면 다음 명령어로 실행합니다:
 
 ```powershell
@@ -114,6 +121,14 @@ dotnet run
   <img src="images/VSCode_APIServer/dotnet_run.png" alt="실행 명령 및 결과" width="70%">
   <p><em>dotnet run 명령으로 애플리케이션을 실행한 결과 화면</em></p>
 </div>
+
+혹은 VS Code Run -> Run Without Debugging으로 실행합니다.
+
+<div align="center">
+  <img src="images/VSCode_APIServer/vscoderun.gif" alt="디버깅 데모" width="70%">
+  <p><em>그림 X: VS Code에서 run장면 시연</em></p>
+</div>
+
 
 3. 애플리케이션이 시작되면 표시되는 URL을 브라우저에서 열거나 다음 명령어를 사용하여 기본 API 엔드포인트에 요청을 보낼 수 있습니다:
 
@@ -146,6 +161,18 @@ VS Code에서 디버깅을 설정하려면:
      <img src="images/VSCode_APIServer/debugger_tab_explain.png" alt="디버그 탭 클릭" width="70%">
      <p><em>VS Code에서 디버깅 화면</em></p>
    </div>
+
+   <div align="center">
+     <img src="images/VSCode_APIServer/debug_settings.gif" alt="디버그 탭 클릭" width="70%">
+     <p><em>VS Code에서 중단점 설정 및 변수 추적 설정</em></p>
+   </div>
+
+   <div align="center">
+     <img src="images/VSCode_APIServer/debug.gif" alt="디버그 탭 클릭" width="70%">
+     <p><em>VS Code에서 디버깅</em></p>
+   </div>
+
+
 
 
 
