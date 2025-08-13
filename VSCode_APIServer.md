@@ -108,7 +108,7 @@ dotnet build
 
 <div align="center">
   <img src="images/VSCode_APIServer/vsbuild.gif" alt="디버깅 데모" width="70%">
-  <p><em>그림 X: VS Code에서 빌드 장면 시연</em></p>
+  <p><em>VS Code에서 메뉴를 통한 빌드 장면 시연</em></p>
 </div>
 
 2. 빌드가 성공하면 다음 명령어로 실행합니다:
@@ -126,7 +126,7 @@ dotnet run
 
 <div align="center">
   <img src="images/VSCode_APIServer/vscoderun.gif" alt="디버깅 데모" width="70%">
-  <p><em>그림 X: VS Code에서 run장면 시연</em></p>
+  <p><em>VS Code에서 메뉴를 통한 run장면 시연</em></p>
 </div>
 
 
