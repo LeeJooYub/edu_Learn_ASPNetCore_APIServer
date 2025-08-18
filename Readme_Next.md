@@ -185,8 +185,32 @@ ASP.NET Core로 게임 API 서버를 개발하기 위한 학습 경로를 다음
 2. [api_server_training_dungeon_farming](./api_server_training_dungeon_farming/) (★★★★) - 완성된 API 서버 프로젝트
 3. [지니 팜](https://github.com/jacking75/com2us_edu_GenieFarm) (★★★) - 인턴 프로젝트
 4. [수집형 RPG API 서버](https://github.com/beatheat/Com2usEduProject ) (★★) 
+5. 2024년 API 서버로 만든 오목 게임 서버  (★★) 
+    - 두 개의 프로젝트가 있다. 둘다 만드는 게임은 같지만 각각 개발자는 달라서 구현도 조금씩 다르다
+    - API 서버로 실시간 게임 콘텐츠를 구현하는 방법을 볼 수 있다. 롱 폴링 방식 사용 
+    - `codes/practice_omok_game-1` , 'codes/practice_omok_game-2`  
+6. 2025년 신입 사원 교육 프로젝트  (★★) 
+    - 하스스톤 모작
+    - `codes/HearthStone` 디렉토리에 있다. 
 
 ## 참고 자료
+
+### API Server 개발하기 
+- `code` 디렉토리의 `GameAPIServer_Template` 디렉토리에 있는 코드를 참고해서 만들기 바란다.
+    - `GameAPIServer_Template_Doc` 에 코드에 대한 설명 문서가 있으니 꼭 보기 바란다
+- 프로젝트는 새로 만들고 구조나 코드 등을 참고한다.    
+- `GameAPIServer_Template` 에 있는 코드 보다 더 좋은 코드를 만드는 것을 목표로 한다.  
+
+<br>    
+  
+### example_filter_APIServer
+- 해당 프로그램은 `codes` 디렉토리 안에 있다.  
+- 기획데이터(마스터 데이터)가 json으로 된 것을 로딩
+- 미들웨어로 라우팅을 커스텀마이징
+- 미들웨어로 클라이언트 보낸 요청 데이터의 암호를 풀어서 핸들러에 전달하도록 한다
+- 필터로 클라이언트에 보내는 응답의 포맷을 변환하거나 암호화 하도록 한다  
+  
+<br>   
 
 ### Deep Wiki
 이 저장소의 내용을 DeepWiki로 만들었습니다. [2025년 5월 9일 제작한 위키](https://deepwiki.com/jacking75/edu_Learn_ASPNetCore_APIServer/1-overview)는 영어로 작성되어 있습니다. 
@@ -203,7 +227,7 @@ ASP.NET Core로 게임 API 서버를 개발하기 위한 학습 경로를 다음
 9. [ASP (notion.site)](https://easy-cell-518.notion.site/ASP-0f310b9157de4cb683a5250c5eb9cc19 ) (★★) 
 10. https://velog.io/@oak_cassia/%EC%84%9C%EB%B2%84%EC%BA%A0%ED%8D%BC%EC%8A%A4-1%EA%B8%B0-ASP.NET-Core (★★) 
 11. https://beathe.at/2023-04/ASP.NET-Core-GameServer (링크 끊김)
-
+12. [학습자료_2024_서버캠퍼스2기](학습자료_2024_서버캠퍼스2기) (★★★) - 2024 서버캠퍼스 수료생 자료 
 
 
 ### .Net 예제
