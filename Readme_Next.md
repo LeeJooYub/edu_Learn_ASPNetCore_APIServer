@@ -45,9 +45,9 @@ ASP.NET Core로 게임 API 서버를 개발하기 위한 학습 경로를 다음
    - [Web서비스의 서버구성과목적](https://docs.google.com/presentation/d/105NPfv7CPfgk0Iw_6vSB_oOavQZpes7-Wit5HuCm7oM/edit?usp=sharing) (★★★★, 2시간) - 전반적인 서버 구조 이해
    - [전체적인 서버 개발 기초 자료(기존 서버 캠퍼스 인턴 자료)](https://sueshin.tistory.com/category/%EA%B0%9C%EC%9D%B8%EA%B3%B5%EB%B6%80/Web%20API%20%EA%B2%8C%EC%9E%84%20%EC%84%9C%EB%B2%84%20%EA%B3%B5%EB%B6%80) (★★★★, 2시간 ~ 6시간) - 전체적인 서버 개발 기초 자료. 한 번 흩어보고 앞으로 배울 내용들에 대해 감을 잡는 것도 좋고, 정독하는 것도 좋다. 
 
-1. **C# 프로그래밍 기초 (약 5시간)**
-   - [(인프런 무료 영상) C# 처음부터 배우기](https://www.inflearn.com/course/%EC%B2%98%EC%9D%8C%EB%B6%80%ED%84%B0-%EB%B0%B0%EC%9A%B0%EB%8A%94-c) (★★★★, 4시간) - C# 기초 학습
- 
+1. **C# 프로그래밍 기초 (약 2~4시간)**
+   - [(인프런 무료 영상) C# 처음부터 배우기](https://inf.run/bfkW) (★★★★, 3시간) - C# 기초 학습
+   - [C# 자료구조](http://www.csharpstudy.com/DS/array.aspx ) (★★ , 1시간 30분)
 2. **ASP.NET Core 기본 (약 8시간)**
    - [(YOUTUBE) 1~6단계로 ASP.NET Core 기본 실습](https://www.youtube.com/playlist?list=PLedRhbB5WC0g2_FjR9PryzsHuQeXpK1Nz) (★★★★, 2시간 30분) - ASP.NET Core의 기본 개념과 실습
    - [VSCode 게임 웹서버 환경설정](UsingVSCode.md) (★★★★, 1시간) - VSCode에서 ASP.NET Core의 환경 설정 및 디버깅 방법
