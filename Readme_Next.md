@@ -212,6 +212,9 @@ ASP.NET Core로 게임 API 서버를 개발하기 위한 학습 경로를 다음
 
 ## 참고 자료
 
+### Deep Wiki
+이 저장소의 내용을 DeepWiki로 만들었다. [2025년5월9일 제작한 위키](https://deepwiki.com/jacking75/edu_Learn_ASPNetCore_APIServer/1-overview)  영어로 되어 있다. 
+
 ### 인턴 자료
 1. [학습자료_2022년_인턴 폴더](./학습자료_2022년_인턴/) (★★★) - 인턴 학습 자료
 2. [코드 디렉토리](./codes/) (★★) - 다양한 예제 프로젝트 모음
