@@ -25,15 +25,16 @@
 
 ## 목차
 1. [초급 학습자 추천 경로](#초급-학습자-추천-경로)
-2. [C# 프로그래밍 기초](#c-프로그래밍-기초)
+2. [C# 프로그래밍](#c-프로그래밍 )
 3. [ASP.NET Core 기초](#aspnet-core-기초)
-4. [데이터베이스 연동 (MySQL)](#데이터베이스-연동)
-5. [Redis 활용](#redis-활용)
-6. [로깅 (ZLogger)](#로깅-및-모니터링)
-7. [Docker 및 배포](#환경-설정-및-배포)
-8. [모니터링 (프로메테우스, 그라파나)](#api-서버-고급-기능)
+4. [ASP.NET Core 고급](#aspnet-core-고급)
+5. [데이터베이스 연동 (MySQL)](#데이터베이스-연동)
+6. [Redis 활용](#redis-활용)
+7. [로깅 및 모니터링](#로깅-및-모니터링)
+8. [환경 설정 및 배포](#환경-설정-및-배포)
 9. [참고 프로젝트](#참고-프로젝트)
 10. [기타 학습 자료](#기타-학습-자료)
+11. [LinqPad 관련자료](#linqpad-관련-자료)
 
 ## 초급 학습자 추천 경로
 
@@ -79,6 +80,20 @@ ASP.NET Core로 게임 API 서버를 개발하기 위한 학습 경로를 다음
    - [ZLogger 사용하기](./ZLogger/) (★★★★) - 로그 라이브러리 ZLogger 사용 방법
    - [SeriLog 사용하기](./Serilog.md) (★★★★) - ZLogger 대체 로깅 라이브러리
 
+
+## C# 프로그래밍 
+
+### 참고 자료
+1. [C# 비동기 프로그래밍 정리](https://docs.google.com/document/d/e/2PACX-1vRHRbQjeoJH9lXalTClFBuB-D41v9TaBTPc_TeUS-yKhPZTJa2dWjpv_Rib863b_disjspqymOjgKwq/pub) (★★★) - 비동기 프로그래밍 필수 자료
+2. [(인프런 무료 영상) C# 초보 강좌 예제로 배우는 C#](https://inf.run/PVsq) (★★) - 예제 중심 C# 학습
+3. [문법](https://www.csharpstudy.com/CSharp/CSharp-intro.aspx) (★★) - C# 기본 문법 학습
+4. [(YOUTUBE) VisualAcademy](https://www.youtube.com/@VisualAcademy/videos) (★★) - 다양한 C# 강의 모음
+5. [6.0 버전 이후의 새 기능](http://www.csharpstudy.com/Latest/CS-new-features.aspx ) (★)
+6. [C# 멀티스레딩](http://www.csharpstudy.com/Threads/thread.aspx ) (★)
+7. [(인프런 무료 영상) C# 프로그래밍 - 커리큘럼 총 63 개](https://inf.run/PueZ) (★★) - Advanced한 C# 강의
+8. [YOUTUBE 닷넷데브](https://www.youtube.com/c/%EB%8B%B7%EB%84%B7%EB%8D%B0%EB%B8%8C/videos ) (★) - C#개발 관련으로 정말 다양한 자료
+
+
 ## ASP.NET Core 기초
 
 ### 필수 자료
@@ -98,7 +113,7 @@ ASP.NET Core로 게임 API 서버를 개발하기 위한 학습 경로를 다음
 6. [ASP.NET Core - DI로 추가한 클래스의 초기화 방법](https://www.sysnet.pe.kr/2/0/13152 ) (★★) - 간단한 예제
 7. [ASP.NET Core 서버 시작까지 흐름 추적](https://jacking75.github.io/NET_lAspNetCoreTrace/) (★) - 조금 예전 버전 자료
 
-## API 서버 고급 기능
+## ASP.NET Core 고급
 
 ### 필수 자료
 2. [ASP.NET Core에서 호스팅되는 서비스를 사용하는 백그라운드 작업](https://docs.microsoft.com/ko-kr/aspnet/core/fundamentals/host/hosted-services?tabs=visual-studio&utm_source=pocket_mylist&view=aspnetcore-9.0) (★★★) - 백그라운드 작업
@@ -126,19 +141,6 @@ ASP.NET Core로 게임 API 서버를 개발하기 위한 학습 경로를 다음
 17. [샘플코드 Transcoder](https://github.com/grpc/grpc-dotnet/tree/master/examples/Transcoder) (★) 
 18. [ASP.NET Core gRPC 앱에서 gRPC JSON 코드 변환 프로젝트 만들기](https://docs.google.com/document/d/e/2PACX-1vTQCG9IMA32WOgCFO417LqwS0KxrPK_AiijaR9tuz3a0lboL9C4TuHiOw-y9WZ0LtfIq1Wn2qxHvkZE/pub) (★) 
   
-
-## C# 프로그래밍 
-
-### 참고 자료
-1. [C# 비동기 프로그래밍 정리](https://docs.google.com/document/d/e/2PACX-1vRHRbQjeoJH9lXalTClFBuB-D41v9TaBTPc_TeUS-yKhPZTJa2dWjpv_Rib863b_disjspqymOjgKwq/pub) (★★★) - 비동기 프로그래밍 필수 자료
-2. [(인프런 무료 영상) C# 초보 강좌 예제로 배우는 C#](https://inf.run/PVsq) (★★) - 예제 중심 C# 학습
-3. [문법](https://www.csharpstudy.com/CSharp/CSharp-intro.aspx) (★★) - C# 기본 문법 학습
-4. [(YOUTUBE) VisualAcademy](https://www.youtube.com/@VisualAcademy/videos) (★★) - 다양한 C# 강의 모음
-5. [6.0 버전 이후의 새 기능](http://www.csharpstudy.com/Latest/CS-new-features.aspx ) (★)
-6. [C# 멀티스레딩](http://www.csharpstudy.com/Threads/thread.aspx ) (★)
-7. [(인프런 무료 영상) C# 프로그래밍 - 커리큘럼 총 63 개](https://inf.run/PueZ) (★★) - Advanced한 C# 강의
-8. [YOUTUBE 닷넷데브](https://www.youtube.com/c/%EB%8B%B7%EB%84%B7%EB%8D%B0%EB%B8%8C/videos ) (★) - C#개발 관련으로 정말 다양한 자료
-
 ## 데이터베이스 연동
 
 ### 필수 자료
@@ -193,7 +195,7 @@ ASP.NET Core로 게임 API 서버를 개발하기 위한 학습 경로를 다음
     - 하스스톤 모작
     - `codes/HearthStone` 디렉토리에 있다. 
 
-## 참고 자료
+## 기타 학습 자료
 
 ### API Server 개발하기 
 - `code` 디렉토리의 `GameAPIServer_Template` 디렉토리에 있는 코드를 참고해서 만들기 바란다.
