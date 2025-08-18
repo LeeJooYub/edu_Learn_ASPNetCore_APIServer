@@ -219,7 +219,7 @@ ASP.NET Core로 게임 API 서버를 개발하기 위한 학습 경로를 다음
 
 ### 인턴 자료
 1. [학습자료_2022년_인턴 폴더](./학습자료_2022년_인턴/) (★★★) - 인턴 학습 자료
-2. [코드 디렉토리](./codes/) (★★) - 다양한 예제 프로젝트 모음
+2. [코드 디렉토리](./codes/) (★★★) - 다양한 예제 프로젝트 모음
 3. [인턴 서버 개발 기초](https://velog.io/@oak_cassia/%EC%84%9C%EB%B2%84%EC%BA%A0%ED%8D%BC%EC%8A%A4-1%EA%B8%B0-ASP.NET-Core) (★★★) - 게임 서버 개발자 기초
 4. [인턴 서버 개발 기초2](https://gist.github.com/jacking75/344fd3c8c16fc27fe51d4c983a3a6306) (★★★) - 게임 서버 개발자 기초 자료
 5. [인턴 서버 개발 기초3](https://paper-tub-6ae.notion.site/0be4168f7f224f82a89110423e3943cb) (★★★) -  컴팩트한 서버 개발 기초자료
@@ -237,9 +237,6 @@ ASP.NET Core로 게임 API 서버를 개발하기 위한 학습 경로를 다음
 
 ### 게임 서버 아키텍처
 3. [게임 엔진 아웃라인](https://drive.google.com/file/d/1HeBu2NXeLXU8VY5l7Gph4l6SRZkhZQae/view?usp=sharing ) (☆)
-
-### 성능 테스트
-1. [nGrinder 소개 및 사용 방법(현재 링크 끊김)](https://docs.google.com/document/d/1O-xeZ-bw8LimZT_WDK294aUXcLBRs7XYWgbgV4NiHK0/edit) (★★★) - 성능 테스트 도구 
 
 ### 네트워크 및 통신
 1. [네트워크 기초](https://drive.google.com/file/d/1VmxaTRA1qJnoIGWKK6SoYDH-pHBvnGbz/view?usp=sharing ) (★★) - 네트워크 기초
