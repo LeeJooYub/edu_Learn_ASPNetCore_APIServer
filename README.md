@@ -50,6 +50,9 @@ ASP.NET Core로 게임 API 서버를 개발하기 위한 학습 경로를 다음
 1. **C# 프로그래밍 기초**
    - [(인프런 무료 영상) C# 처음부터 배우기](https://inf.run/bfkW) (★★★★) - C# 기초 학습 
    - [C# 자료구조](http://www.csharpstudy.com/DS/array.aspx ) (★★★)
+   - [coding_rule.md](./coding_rule.md) (★★★) - 코딩 규칙 및 가이드라인
+
+
 2. **ASP.NET Core 기본**
    - [(YOUTUBE) 1~6단계로 ASP.NET Core 기본 실습](https://youtu.be/YTDWXJG1SD8?si=PHz6XvNGy4yU-Sjj) (★★★★) - ASP.NET Core의 기본 개념과 실습. 예제 코드는 `codes` 디렉토리의 `basic2` 디렉토리 안에 있다. 
    - [VSCode 게임 웹서버 환경설정](UsingVSCode.md) (★★★★) - VSCode에서 ASP.NET Core의 환경 설정 및 디버깅 방법
@@ -235,15 +238,12 @@ ASP.NET Core로 게임 API 서버를 개발하기 위한 학습 경로를 다음
 ### .Net 예제
 1. [ASP.NET Core 다양한 샘플 코드](https://github.com/dodyg/practical-aspnetcore) (★★★) - 다양한 예제 코드 모음)  
 
-### 게임 서버 아키텍처
+### 게임 엔진 아키텍처
 3. [게임 엔진 아웃라인](https://drive.google.com/file/d/1HeBu2NXeLXU8VY5l7Gph4l6SRZkhZQae/view?usp=sharing ) (☆)
 
 ### 네트워크 및 통신
 1. [네트워크 기초](https://drive.google.com/file/d/1VmxaTRA1qJnoIGWKK6SoYDH-pHBvnGbz/view?usp=sharing ) (★★) - 네트워크 기초
 
-
-### 코딩 규칙
-1. [coding_rule.md](./coding_rule.md) (★★★) - 코딩 규칙 및 가이드라인
 
 ---
 
