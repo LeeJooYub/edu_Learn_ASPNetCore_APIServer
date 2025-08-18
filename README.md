@@ -48,10 +48,10 @@ ASP.NET Core로 게임 API 서버를 개발하기 위한 학습 경로를 다음
    한 번 흩어보고 앞으로 배울 내용들에 대해 감을 잡는 것도 좋고, 정독하는 것도 좋다. 
 
 1. **C# 프로그래밍 기초**
-   - [(인프런 무료 영상) C# 처음부터 배우기](https://inf.run/bfkW) (★★★★) - C# 기초 학습
+   - [(인프런 무료 영상) C# 처음부터 배우기](https://inf.run/bfkW) (★★★★) - C# 기초 학습 
    - [C# 자료구조](http://www.csharpstudy.com/DS/array.aspx ) (★★★)
 2. **ASP.NET Core 기본**
-   - [(YOUTUBE) 1~6단계로 ASP.NET Core 기본 실습](https://youtu.be/YTDWXJG1SD8?si=PHz6XvNGy4yU-Sjj) (★★★★) - ASP.NET Core의 기본 개념과 실습
+   - [(YOUTUBE) 1~6단계로 ASP.NET Core 기본 실습](https://youtu.be/YTDWXJG1SD8?si=PHz6XvNGy4yU-Sjj) (★★★★) - ASP.NET Core의 기본 개념과 실습. 예제 코드는 `codes` 디렉토리의 `basic2` 디렉토리 안에 있다. 
    - [VSCode 게임 웹서버 환경설정](UsingVSCode.md) (★★★★) - VSCode에서 ASP.NET Core의 환경 설정 및 디버깅 방법
    - [ASP.NET Core Web 시작](https://blog.naver.com/sssang97/223088811266) (★★★★) - 기본 시작 방법 (Visual Studio 기반)
    - [컨트롤러와 route 규칙](https://blog.naver.com/sssang97/223088978577 )  [Request 처리](https://blog.naver.com/sssang97/223089025576 )  [Response 처리](https://blog.naver.com/sssang97/223089045407 )
